@@ -1,5 +1,5 @@
 ### Hi there 👋
-_I am a scholar of digital history. Here you'll find projects both finished as well as work-in-progress. - However, my work is usually written in German._
+I am a scholar of digital history. Here you'll find projects both finished as well as work-in-progress. - However, my work is usually written in German.
 
 💬 Ask me about: genuine digital sources, wikipedia research, research driven archiving
 
