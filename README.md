@@ -7,7 +7,7 @@ I am a scholar of digital history. Here you'll find projects both finished as we
 
 ## Projektrepositorien
 
-- [**Flüchtig, Anonym & Digital**](), 20.09.2020 (Masterarbeit)<br/>
+- [**Flüchtig, Anonym & Digital**](https://github.com/krugbuild/fluechtig-anonym-digital), 20.09.2020 (Masterarbeit)<br/>
   _Versuch einer genuin digitalen Quellenkritik am Beispiel von Akteursanalysen in der Wikipedia_
 
 - [**Zensur in Bildern**](https://github.com/krugbuild/zensur-in-bildern), 28.02.2020 (Seminararbeit)<br/>
