@@ -1,7 +1,8 @@
 ### Hi there 👋
-I am a scholar of digital history. Here you'll find projects both finished as well as work-in-progress. - However, my work is usually written in German.
+I am a scholar of digital history and here you'll find (some of) my projects. These usually revolve around topics like genuine digital sources, Wikipedia research and research driven archiving as a part of open science. (But these are usually written in German.)
 
-💬 Ask me about: genuine digital sources, wikipedia research, research driven archiving
+- 💬 Ask me about: the lack of classical source criticism in digital history studies
+- 🔭 I’m currently working on: revision of my Master's thesis for self publishing on github
 
 ---
 
