@@ -2,11 +2,11 @@
 I am a scholar of digital history and here you'll find (some of) my projects. These usually revolve around topics like genuine digital sources, Wikipedia research and research driven archiving as a part of open science. (But these are usually written in German.)
 
 - 💬 Ask me about:
-- - the lack of classical source criticism in digital history studies
-- - python scripting and qt5 design for QGIS (it's wild!)
+  - the lack of classical source criticism in digital history studies
+  - python scripting and qt5 design for QGIS (it's wild!)
 - 🔭 I’m currently working on:
-- - [LauGIS](https://github.com/LausitzBergbaukultur/LauGIS), a GIS-oriented database for industrial heritage objects
-- - revision of my Master's thesis for self publishing on github/zenodo
+  - [LauGIS](https://github.com/LausitzBergbaukultur/LauGIS), a GIS-oriented database for industrial heritage objects
+  - revision of my Master's thesis for self publishing on github/zenodo
 - 🌱 I’m currently learning: python and pgsql on one hand and distributed server stuff on the other
 
 ---
