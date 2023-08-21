@@ -1,17 +1,24 @@
 ### Hi there 👋
-I am a scholar of digital history and here you'll find (some of) my projects. These usually revolve around topics like genuine digital sources, Wikipedia research and research driven archiving as a part of open science. (But these are usually written in German.)
+I am a scholar of digital history and here you'll find (some of) my projects and papers. These usually revolve around topics like genuine digital sources, Wikipedia research, research driven archiving as a part of open science and geo information systems. (Most of these are written in German.)
 
 - 💬 Ask me about:
   - the lack of classical source criticism in digital history studies
   - python scripting and qt5 design for QGIS (it's wild!)
 - 🔭 I’m currently working on:
-  - [LauGIS](https://github.com/LausitzBergbaukultur/LauGIS), a GIS-oriented database for industrial heritage objects
+  - some video essays to improve my science communication skills
   - revision of my Master's thesis for self publishing on github/zenodo
-- 🌱 I’m currently learning: python and pgsql on one hand and distributed server stuff on the other
+- 🌱 I’m currently learning:
+  - python and pgsql (there's always room for improvement!)
+  - video editing with DaVinci Resolve
 
 ---
 
 ## Projektrepositorien
+
+- [**LauGIS - Geoinformationssystem zur Erfassung der Lausitzer Bergbau- und Industriekultur**](https://github.com/LausitzBergbaukultur/LauGIS), (Projektrepositorium zum Erfassungsprojekt)
+  - Artikel auf SZ.de: [_Projekt will Bergbaugeschichte in der Lausitz erhalten_](https://www.sueddeutsche.de/kultur/kultur-lichterfeld-schacksdorf-projekt-will-bergbaugeschichte-in-der-lausitz-erhalten-dpa.urn-newsml-dpa-com-20090101-230418-99-360052)
+  - Artikel auf RBB24.de: [_Braunkohle soll kulturell für die Nachwelt erhalten bleiben_](https://www.rbb24.de/studiocottbus/kultur/2023/04/industriedenkmale-lausitz-denkmalpflege-kohleausstieg.html)
+  - Instagram Profil des Projekts: [Erfassungsprojekt Lausitz - Inspirationen und Eindrücke aus dem BKM geförderten Erfassungsprojekt Braunkohle- und Industriekultur in der Niederlausitz](https://www.instagram.com/erfassungsprojekt_lausitz/)
 
 - [**Flüchtig, Anonym & Digital**](https://github.com/krugbuild/fluechtig-anonym-digital), 20.09.2020 (Masterarbeit)<br/>
   _Versuch einer genuin digitalen Quellenkritik am Beispiel von Akteursanalysen in der Wikipedia_
