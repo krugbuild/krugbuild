@@ -22,7 +22,7 @@ I am a scholar of digital history and here you'll find (some of) my projects and
 
 - [**Flüchtig, Anonym & Digital**](https://github.com/krugbuild/fluechtig-anonym-digital), 20.09.2020 (Masterarbeit)<br/>
   _Versuch einer genuin digitalen Quellenkritik am Beispiel von Akteursanalysen in der Wikipedia_
-  - Blogpost auf [Digital History Berlin](https://dhistory.hypotheses.org/): [_Wege der Internetzensur: Akteursanalysen in der Wikipedia als Bestandteil einer digitalen Quellenkritik (Masterarbeit)_](https://dhistory.hypotheses.org/64 )
+  - Blogpost auf Digital History Berlin: [_Wege der Internetzensur: Akteursanalysen in der Wikipedia als Bestandteil einer digitalen Quellenkritik (Masterarbeit)_](https://dhistory.hypotheses.org/64 )
 
 - [**Zensur in Bildern**](https://github.com/krugbuild/zensur-in-bildern), 28.02.2020 (Seminararbeit)<br/>
   _Verlauf der Zensur der chinesischen Wikipedia in den 2010er Jahren_<br/>
