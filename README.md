@@ -22,12 +22,13 @@ I am a scholar of digital history and here you'll find (some of) my projects and
 
 - [**Flüchtig, Anonym & Digital**](https://github.com/krugbuild/fluechtig-anonym-digital), 20.09.2020 (Masterarbeit)<br/>
   _Versuch einer genuin digitalen Quellenkritik am Beispiel von Akteursanalysen in der Wikipedia_
+  - Blogpost auf [Digital History Berlin](https://dhistory.hypotheses.org/): [_Wege der Internetzensur: Akteursanalysen in der Wikipedia als Bestandteil einer digitalen Quellenkritik (Masterarbeit)_](https://dhistory.hypotheses.org/64 )
 
 - [**Zensur in Bildern**](https://github.com/krugbuild/zensur-in-bildern), 28.02.2020 (Seminararbeit)<br/>
   _Verlauf der Zensur der chinesischen Wikipedia in den 2010er Jahren_<br/>
   [![DOI](https://zenodo.org/badge/233598495.svg)](https://zenodo.org/badge/latestdoi/233598495)
   
-- [**Crowds, sources and manipulation**](https://github.com/krugbuild/zensur-in-bildern), 27.11.2019 (Seminararbeit)<br/>
+- [**Crowds, sources and manipulation**](https://github.com/krugbuild/crowds-sources-manipulation), 27.11.2019 (Seminararbeit)<br/>
   _Begriffshistorische Analysen mittels Wikipedia am Beispiel des Artikels "Populismus" zwischen 2014 und 2017_ <br/>
   [![DOI](https://zenodo.org/badge/191734445.svg)](https://zenodo.org/badge/latestdoi/191734445)
 
