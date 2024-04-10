@@ -5,7 +5,7 @@ I am a scholar of digital history and here you'll find (some of) my projects and
   - the lack of classical source criticism in digital history studies
   - python scripting and qt5 design for QGIS (it's wild!)
 - 🔭 I’m currently working on:
-  - some video essays to improve my science communication skills
+  - knowledge graph design and web crawling 
   - revision of my Master's thesis for self publishing on github/zenodo
 - 🌱 I’m currently learning:
   - python and pgsql (there's always room for improvement!)
