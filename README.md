@@ -8,9 +8,9 @@ I am a scholar of digital history and here you'll find (some of) my projects and
   - knowledge graph design and web crawling 
   - revision of my Master's thesis for self publishing on github/zenodo
 - 🌱 I’m currently learning:
+  - SPARQL
   - python and pgsql (there's always room for improvement!)
-  - video editing with DaVinci Resolve
-
+    
 ---
 
 ## Projektrepositorien
