@@ -20,7 +20,7 @@ I am a scholar of digital history and here you'll find (some of) my projects and
   - Artikel auf RBB24.de: [_Braunkohle soll kulturell für die Nachwelt erhalten bleiben_](https://www.rbb24.de/studiocottbus/kultur/2023/04/industriedenkmale-lausitz-denkmalpflege-kohleausstieg.html)
   - Instagram Profil des Projekts: [Erfassungsprojekt Lausitz - Inspirationen und Eindrücke aus dem BKM geförderten Erfassungsprojekt Braunkohle- und Industriekultur in der Niederlausitz](https://www.instagram.com/erfassungsprojekt_lausitz/)
 
-- [**Flüchtig, Anonym & Digital**]([https://github.com/krugbuild/fluechtig-anonym-digital](https://krugbuild.github.io/fluechtig-anonym-digital/)), 29.05.2024 (Masterarbeit, überarbeitete Version)<br/>
+- [**Flüchtig, Anonym & Digital**](https://krugbuild.github.io/fluechtig-anonym-digital/), 29.05.2024 (Masterarbeit, überarbeitete Version)<br/>
   _Versuch einer genuin digitalen Quellenkritik am Beispiel von Akteursanalysen in der Wikipedia_
   - Blogpost auf Digital History Berlin: [_Wege der Internetzensur: Akteursanalysen in der Wikipedia als Bestandteil einer digitalen Quellenkritik (Masterarbeit)_](https://dhistory.hypotheses.org/64 )
 
