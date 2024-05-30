@@ -9,6 +9,7 @@ I am a scholar of digital history and here you'll find (some of) my projects and
   - revision of my Master's thesis for self publishing on github/zenodo
 - 🌱 I’m currently learning:
   - SPARQL
+  - linkml
   - python and pgsql (there's always room for improvement!)
     
 ---
