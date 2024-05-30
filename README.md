@@ -21,7 +21,8 @@ I am a scholar of digital history and here you'll find (some of) my projects and
   - Instagram Profil des Projekts: [Erfassungsprojekt Lausitz - Inspirationen und Eindrücke aus dem BKM geförderten Erfassungsprojekt Braunkohle- und Industriekultur in der Niederlausitz](https://www.instagram.com/erfassungsprojekt_lausitz/)
 
 - [**Flüchtig, Anonym & Digital**](https://krugbuild.github.io/fluechtig-anonym-digital/), 29.05.2024 (Masterarbeit, überarbeitete Version)<br/>
-  _Versuch einer genuin digitalen Quellenkritik am Beispiel von Akteursanalysen in der Wikipedia_
+  _Versuch einer genuin digitalen Quellenkritik am Beispiel von Akteursanalysen in der Wikipedia_<br/>
+  [![DOI](https://zenodo.org/badge/254326205.svg)](https://zenodo.org/doi/10.5281/zenodo.11394422)
   - Blogpost auf Digital History Berlin: [_Wege der Internetzensur: Akteursanalysen in der Wikipedia als Bestandteil einer digitalen Quellenkritik (Masterarbeit)_](https://dhistory.hypotheses.org/64 )
 
 - [**Zensur in Bildern**](https://github.com/krugbuild/zensur-in-bildern), 28.02.2020 (Seminararbeit)<br/>
