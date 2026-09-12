@@ -11,7 +11,7 @@ knowledge can become useful infrastructure.
 :globe_with_meridians: [`Learn more about my work and background.`]()
 
 ### ✨ Featured work: Come2Data Knowledge Base
-🌐 [GitLab TUC (Architecture)](https://gitlab.hrz.tu-chemnitz.de/come2data/c2d_ap2/c2d_knowledgebase) · 🌐 [GitLab TUC (System)](https://gitlab.hrz.tu-chemnitz.de/come2data/c2d_ap2/c2d_knowledgebase_system)
+🌐 [`GitLab TUC (Architecture)`](https://gitlab.hrz.tu-chemnitz.de/come2data/c2d_ap2/c2d_knowledgebase) · 🌐 [`GitLab TUC (System)`](https://gitlab.hrz.tu-chemnitz.de/come2data/c2d_ap2/c2d_knowledgebase_system)
 
 ```text
 STATUS     ███████░░░  ongoing
@@ -22,7 +22,7 @@ QUEST      make institutional knowledge + data competencies accessible
 
 ### 🗂️ Other projects
 
-#### LauGIS - Geoinformationssystem zur Erfassung der Lausitzer Bergbau- und Industriekultur · 🌐 [GitHub (german)](https://github.com/LausitzBergbaukultur/LauGIS)
+#### LauGIS - Geoinformationssystem zur Erfassung der Lausitzer Bergbau- und Industriekultur · 🌐 [`GitHub (german)`](https://github.com/LausitzBergbaukultur/LauGIS)
 
 ```text
 STATUS     ██████████  complete
@@ -31,7 +31,7 @@ MODE       research + software
 QUEST      document cultural heritage through spatial data
 ```
 
-#### Master Thesis 'Flüchtig, Anonym & Digital' · 🌐 [GitHub (german)](https://krugbuild.github.io/fluechtig-anonym-digital/)
+#### Master Thesis 'Flüchtig, Anonym & Digital' · 🌐 [`GitHub (german)`](https://krugbuild.github.io/fluechtig-anonym-digital/)
   
 ```text
 STATUS     ██████████  archived
@@ -41,7 +41,7 @@ MODE       research + methodology
 QUEST      understand how genuine digital sources change historical research
 ```
 
-#### Paper 'Zensur in Bildern' · 🌐 [GitHub (german)](https://github.com/krugbuild/zensur-in-bildern)
+#### Paper 'Zensur in Bildern' · 🌐 [`GitHub (german)`](https://github.com/krugbuild/zensur-in-bildern)
 
 ```text
 STATUS     ██████████  archived
@@ -51,7 +51,7 @@ MODE       exploration + research + critical analysis
 QUEST      investigate censorship through historical images
 ```
 
-#### Paper 'Crowds, Sources & Manipulation' · 🌐 [GitHub (german)](https://github.com/krugbuild/crowds-sources-manipulation)
+#### Paper 'Crowds, Sources & Manipulation' · 🌐 [`GitHub (german)`](https://github.com/krugbuild/crowds-sources-manipulation)
 
 ```text
 STATUS     ██████████  archived
