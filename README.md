@@ -11,7 +11,7 @@ knowledge can become useful infrastructure.
 :globe_with_meridians: [`Learn more about my work and background.`]()
 
 ### ✨ Featured work: Come2Data Knowledge Base
-🌐 [GitLab (Architecture)](https://gitlab.hrz.tu-chemnitz.de/come2data/c2d_ap2/c2d_knowledgebase) · 🌐 [GitLab (System)](https://gitlab.hrz.tu-chemnitz.de/come2data/c2d_ap2/c2d_knowledgebase_system)
+🌐 [GitLab TUC (Architecture)](https://gitlab.hrz.tu-chemnitz.de/come2data/c2d_ap2/c2d_knowledgebase) · 🌐 [GitLab TUC (System)](https://gitlab.hrz.tu-chemnitz.de/come2data/c2d_ap2/c2d_knowledgebase_system)
 
 ```text
 STATUS     ███████░░░  ongoing
