@@ -1,3 +1,5 @@
+![](header.jpg)
+
 `Digital Humanities · Knowledge Systems · Research Infrastructure`
 
 ```text
@@ -6,15 +8,12 @@ Hi there 👋
 I'm a Digital History researcher and Knowledge Manager interested in
 how complex information becomes structured knowledge — and how that
 knowledge can become useful infrastructure.
-
-Currently working at the intersection of Digital Humanities, Knowledge
-Management and Research Infrastructure.
 ```
 
 :globe_with_meridians: [`Learn more about my work and background.`]()
 
 ### ✨ Featured work: Come2Data Knowledge Base
-🌐 [GitLab (Architecture)](https://gitlab.hrz.tu-chemnitz.de/come2data/c2d_ap2/c2d_knowledgebase) · 🌐 [GitLab (System)](https://gitlab.hrz.tu-chemnitz.de/come2data/c2d_ap2/c2d_knowledgebase_system)
+🌐 [`GitLab TUC (Architecture)`](https://gitlab.hrz.tu-chemnitz.de/come2data/c2d_ap2/c2d_knowledgebase) · 🌐 [`GitLab TUC (System)`](https://gitlab.hrz.tu-chemnitz.de/come2data/c2d_ap2/c2d_knowledgebase_system)
 
 ```text
 STATUS     ███████░░░  ongoing
@@ -25,7 +24,7 @@ QUEST      make institutional knowledge + data competencies accessible
 
 ### 🗂️ Other projects
 
-#### LauGIS - Geoinformationssystem zur Erfassung der Lausitzer Bergbau- und Industriekultur · 🌐 [GitHub (german)](https://github.com/LausitzBergbaukultur/LauGIS)
+#### LauGIS - Geoinformationssystem zur Erfassung der Lausitzer Bergbau- und Industriekultur · 🌐 [`GitHub (german)`](https://github.com/LausitzBergbaukultur/LauGIS)
 
 ```text
 STATUS     ██████████  complete
@@ -34,7 +33,7 @@ MODE       research + software
 QUEST      document cultural heritage through spatial data
 ```
 
-#### Master Thesis 'Flüchtig, Anonym & Digital' · 🌐 [GitHub (german)](https://krugbuild.github.io/fluechtig-anonym-digital/)
+#### Master Thesis 'Flüchtig, Anonym & Digital' · 🌐 [`GitHub (german)`](https://krugbuild.github.io/fluechtig-anonym-digital/)
   
 ```text
 STATUS     ██████████  archived
@@ -42,24 +41,4 @@ RELEASED   30.05.2024 (revised version)
 TYPE       digital history + source criticism
 MODE       research + methodology
 QUEST      understand how genuine digital sources change historical research
-```
-
-#### Paper 'Zensur in Bildern' · 🌐 [GitHub (german)](https://github.com/krugbuild/zensur-in-bildern)
-
-```text
-STATUS     ██████████  archived
-RELEASED   28.02.2020
-TYPE       digital history + visual sources
-MODE       exploration + research + critical analysis
-QUEST      investigate censorship through historical images
-```
-
-#### Paper 'Crowds, Sources & Manipulation' · 🌐 [GitHub (german)](https://github.com/krugbuild/crowds-sources-manipulation)
-
-```text
-STATUS     ██████████  archived
-RELEASED   27.11.2019
-TYPE       digital history + information spaces
-MODE       statistics + research + critical analysis
-QUEST      examine how crowds shape and manipulate digital knowledge
 ```
