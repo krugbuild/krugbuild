@@ -1,3 +1,5 @@
+![](header.jpg)
+
 `Digital Humanities · Knowledge Systems · Research Infrastructure`
 
 ```text
@@ -39,24 +41,4 @@ RELEASED   30.05.2024 (revised version)
 TYPE       digital history + source criticism
 MODE       research + methodology
 QUEST      understand how genuine digital sources change historical research
-```
-
-#### Paper 'Zensur in Bildern' · 🌐 [`GitHub (german)`](https://github.com/krugbuild/zensur-in-bildern)
-
-```text
-STATUS     ██████████  archived
-RELEASED   28.02.2020
-TYPE       digital history + visual sources
-MODE       exploration + research + critical analysis
-QUEST      investigate censorship through historical images
-```
-
-#### Paper 'Crowds, Sources & Manipulation' · 🌐 [`GitHub (german)`](https://github.com/krugbuild/crowds-sources-manipulation)
-
-```text
-STATUS     ██████████  archived
-RELEASED   27.11.2019
-TYPE       digital history + information spaces
-MODE       statistics + research + critical analysis
-QUEST      examine how crowds shape and manipulate digital knowledge
 ```
